@@ -68,12 +68,13 @@ const HeroSection = () => {
           >
             Hire Me
           </a>
-          <a
-            href="#"
-            className="inline-flex items-center gap-2 px-7 py-3.5 rounded-lg font-semibold text-muted-foreground hover:text-foreground transition-colors"
-          >
-            <Download size={18} /> Download CV
-          </a>
+            <a
+              href="/Confidence_Osagie_CV.pdf"
+              download
+              className="inline-flex items-center gap-2 px-7 py-3.5 rounded-lg font-semibold text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <Download size={18} /> Download CV
+            </a>
         </motion.div>
 
         <motion.a

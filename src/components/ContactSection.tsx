@@ -111,7 +111,7 @@ const ContactSection = () => {
                 <div>
                   <p className="font-semibold text-sm">WhatsApp</p>
                   <a
-                    href="https://wa.me/1234567890"
+                    href="https://wa.me/2349053857258"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground text-sm hover:text-primary transition-colors"

@@ -7,6 +7,7 @@ const webSkills = [
   { name: "JavaScript", icon: Code2 },
   { name: "React", icon: Layers },
   { name: "Node.js & Express", icon: Database },
+  { name: "Python & Django", icon: Code2 },
   { name: "Git & GitHub", icon: GitBranch },
   { name: "REST APIs", icon: Code2 },
 ];

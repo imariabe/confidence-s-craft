@@ -56,7 +56,7 @@ const AboutSection = () => {
             <div className="grid grid-cols-2 gap-4">
               {[
                 { label: "Frontend", value: "React, HTML, CSS, JS" },
-                { label: "Backend", value: "Node.js, Express" },
+                { label: "Backend", value: "Node.js, Express, Django" },
                 { label: "Data", value: "Python, Excel, Power BI" },
                 { label: "Tools", value: "Git, APIs, Figma" },
               ].map((item) => (
