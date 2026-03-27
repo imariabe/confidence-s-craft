@@ -31,7 +31,7 @@ const AboutSection = () => {
             </div>
             {/* Floating badge */}
             <div className="absolute -bottom-4 -right-4 glass-card px-5 py-3 rounded-xl">
-              <p className="text-primary font-display font-bold text-lg">1+ Years</p>
+              <p className="text-primary font-display font-bold text-lg">3+ Years</p>
               <p className="text-muted-foreground text-xs">Experience</p>
             </div>
           </motion.div>
@@ -56,7 +56,7 @@ const AboutSection = () => {
             <div className="grid grid-cols-2 gap-4">
               {[
                 { label: "Frontend", value: "React, HTML, CSS, JS" },
-                { label: "Backend", value: "Node.js, Express" },
+                { label: "Backend", value: "Node.js, Express, Django" },
                 { label: "Data", value: "Python, Excel, Power BI" },
                 { label: "Tools", value: "Git, APIs, Figma" },
               ].map((item) => (
