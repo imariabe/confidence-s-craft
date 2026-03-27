@@ -4,7 +4,7 @@ import { useRef, useEffect, useState } from "react";
 const stats = [
   { value: 10, suffix: "+", label: "Projects Completed" },
   { value: 5, suffix: "+", label: "Happy Clients" },
-  { value: 1, suffix: "+", label: "Years Experience" },
+  { value: 3, suffix: "+", label: "Years Experience" },
   { value: 2, suffix: "", label: "Specializations" },
 ];
 
