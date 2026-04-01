@@ -96,8 +96,8 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="font-semibold text-sm">Email</p>
-                  <a href="mailto:confidenceosagie@email.com" className="text-muted-foreground text-sm hover:text-primary transition-colors">
-                    confidenceosagie@email.com
+                  <a href="mailto:confidenceosagie944@gmail.com" className="text-muted-foreground text-sm hover:text-primary transition-colors">
+                    confidenceosagie944@gmail.com
                   </a>
                 </div>
               </div>
