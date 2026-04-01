@@ -132,7 +132,7 @@ const ContactSection = () => {
                 <Github size={22} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/osagie-confidence-77a6572a5"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="glass-card w-12 h-12 rounded-xl flex items-center justify-center text-muted-foreground hover:text-primary hover-lift transition-colors"
