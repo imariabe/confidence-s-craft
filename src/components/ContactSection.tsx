@@ -96,8 +96,8 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="font-semibold text-sm">Email</p>
-                  <a href="mailto:confidenceosagie@email.com" className="text-muted-foreground text-sm hover:text-primary transition-colors">
-                    confidenceosagie@email.com
+                  <a href="mailto:confidenceosagie944@gmail.com" className="text-muted-foreground text-sm hover:text-primary transition-colors">
+                    confidenceosagie944@gmail.com
                   </a>
                 </div>
               </div>
@@ -132,7 +132,7 @@ const ContactSection = () => {
                 <Github size={22} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/osagie-confidence-77a6572a5"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="glass-card w-12 h-12 rounded-xl flex items-center justify-center text-muted-foreground hover:text-primary hover-lift transition-colors"
