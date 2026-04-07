@@ -195,16 +195,12 @@ const ProjectModal = ({ project, onClose }: { project: Project; onClose: () => v
 
         <div className="flex gap-3">
           <a
-            href={project.liveUrl || "#"}
+            href="https://wa.me/2349053857258?text=Hi%20Confidence%2C%20I%27d%20love%20to%20discuss%20a%20project%20like%20this!"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity"
           >
-            <ExternalLink size={14} /> View Live
-          </a>
-          <a
-            href={project.githubUrl || "#"}
-            className="flex items-center gap-2 px-4 py-2 rounded-lg bg-secondary text-foreground text-sm font-medium hover:opacity-80 transition-opacity"
-          >
-            <Github size={14} /> Source Code
+            <ExternalLink size={14} /> Request Similar Project
           </a>
         </div>
       </div>
